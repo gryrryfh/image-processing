@@ -56,4 +56,5 @@ utils.printError(err); } };
 // schedule the first one.
 setTimeout(processVideo, 0);
 ```
+
 ![1](project1/facedetection.gif)
