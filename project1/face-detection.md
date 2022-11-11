@@ -1,7 +1,7 @@
 # 얼굴 추출 및 구현 팀프로젝트
 ## 소스코드
 
-``` C
+``` python
 
 let video = document.getElementById('videoInput');
 let src = new cv.Mat(video.height, video.width, cv.CV_8UC4);
