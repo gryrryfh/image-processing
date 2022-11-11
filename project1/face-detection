@@ -1,6 +1,5 @@
-
 ``` java script
-
+//캠에서 영상추출
 let video = document.getElementById('videoInput');
 // 비디오 읽기
 let src = new cv.Mat(video.height, video.width, cv.CV_8UC4);
