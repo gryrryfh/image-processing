@@ -1,5 +1,5 @@
 
-``` python
+``` java script
 
 //캠에서 영상추출
 let video = document.getElementById('videoInput');
