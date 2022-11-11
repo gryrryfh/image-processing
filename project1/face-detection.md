@@ -2,7 +2,7 @@
 ## 소스코드
 ## 팀원 : 양용석, 이준성, 이재경
 
-![1](project1/face detection.gif)
+![1](/face detection.gif)
 
 ``` python
 //캠에서 영상추출
