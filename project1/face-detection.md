@@ -2,6 +2,9 @@
 ## 소스코드
 ## 팀원 : 양용석, 이준성, 이재경
 
+
+![1](project1/facedetection.gif)
+
 ``` python
 //캠에서 영상추출
 let video = document.getElementById('videoInput');
@@ -57,4 +60,3 @@ utils.printError(err); } };
 setTimeout(processVideo, 0);
 ```
 
-![1](project1/facedetection.gif)
