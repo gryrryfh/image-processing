@@ -3,6 +3,7 @@
 ## 팀원 : 양용석, 이준성, 이재경
 
 ``` python
+//하르카스케이드 추출
 //캠에서 영상추출
 let video = document.getElementById('videoInput');
 // 비디오 읽기
