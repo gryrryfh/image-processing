@@ -1,3 +1,5 @@
+# 얼굴 추출 및 구현 팀프로젝트
+
 ``` java script
 //캠에서 영상추출
 let video = document.getElementById('videoInput');
