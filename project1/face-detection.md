@@ -2,7 +2,6 @@
 ## 소스코드
 ## 팀원 : 양용석, 이준성, 이재경
 
-
 ![1](project1/facedetection.gif)
 
 ``` python
