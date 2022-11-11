@@ -66,4 +66,4 @@ setTimeout(processVideo, 0);
 
 ```
 
-![1](project1/face detection.gif)
+![1](/face detection.gif)
