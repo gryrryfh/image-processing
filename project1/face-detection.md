@@ -105,7 +105,7 @@ function processVideo() {
 setTimeout(processVideo, 0);
 
 ```
-
+### 시뮬레이션 결과
 ![1](/face-detection.gif)
 
 ###### 참고자료
