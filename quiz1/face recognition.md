@@ -60,3 +60,6 @@ function loadLabeledImages() {
 
 ### 구현영상
 
+https://user-images.githubusercontent.com/50912987/202202456-15dcbcdc-c0c2-4782-81dc-8c350dc8c4e8.mp4
+
+
