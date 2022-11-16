@@ -4,7 +4,7 @@
 
 ### 20191128 이재경
 
-### 코드
+### 자바스크립트 코드
 ```javascript
 const imageUpload = document.getElementById('imageUpload')
 
