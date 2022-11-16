@@ -53,7 +53,7 @@ function loadLabeledImages() {
   )
 }
 ```
-### 구동방법
+### 구현방법
 1. VSCODE, NODEjs, 폴더 안에 있는 내용들을 모두 다운 받는다.
 2. VSCODE를 실행한 후 Extensions에서 Code Runner와 Live Server를 다운받은 후 index.html을 liveserver로 실행한다.
 3. 알맞은 사진을 선택하면 작동한다.
