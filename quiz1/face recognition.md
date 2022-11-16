@@ -1,3 +1,9 @@
+## 안면인식 구현
+
+### 얼굴을 학습시켜 하나의 사진에 있는 여러 사람의 얼굴을 인식해보기
+
+### 20191128 이재경
+
 ### 코드
 ```javascript
 const imageUpload = document.getElementById('imageUpload')
