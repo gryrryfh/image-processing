@@ -13,6 +13,7 @@
 
 ### p5js https://editor.p5js.org/gryrryfh/sketches/5MYKWeokh
 ### 소스코드
+#### 모델 : https://teachablemachine.withgoogle.com/models/T1t6ZWb_m/
 #### sksetch.js
 
 ``` javascript
