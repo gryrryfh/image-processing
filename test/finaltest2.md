@@ -5,7 +5,11 @@
 #### 45점
 
 ### 실행결과
+#### 샘플들
 ![2022-12-13 (4)](https://user-images.githubusercontent.com/50912987/207221822-0e2a9a52-3532-4b48-8f3e-9024df77cad6.png)
+#### 결과
+![결과](https://user-images.githubusercontent.com/50912987/207223705-5a910b3d-846b-4e66-aa9b-64b8753d0c1d.png)
+
 
 ### p5js https://editor.p5js.org/gryrryfh/sketches/5MYKWeokh
 ### 소스코드
