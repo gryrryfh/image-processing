@@ -72,12 +72,3 @@ cv.imshow('result', img_color)
 cv.waitKey(0)
 
 ```
-
-### 2번
-
-#### 45점
-
-### 실행결과
-
-### 소스코드
-
