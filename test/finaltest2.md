@@ -13,6 +13,7 @@
 
 ### p5js https://editor.p5js.org/gryrryfh/sketches/5MYKWeokh
 ### 소스코드
+#### sksetch.js
 
 ``` javascript
 
@@ -45,8 +46,10 @@ function setup() {
   mobilenet = ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/T1t6ZWb_m/", modelReady);
 }
 ```
+
+#### html
+
 ``` html
-html
 
 <html>
   <head>
