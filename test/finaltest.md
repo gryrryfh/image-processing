@@ -1,9 +1,13 @@
 ## 기말고사
+
 ### 1번
 
 #### 45점
 
+### 실행결과
 ![2022-12-13](https://user-images.githubusercontent.com/50912987/207208550-d1ae7f7f-3d89-4cce-9b0f-e542206a8f45.png)
+
+### 
 
 ``` python
 
@@ -68,3 +72,12 @@ cv.imshow('result', img_color)
 cv.waitKey(0)
 
 ```
+
+### 2번
+
+#### 45점
+
+### 실행결과
+
+### 
+
