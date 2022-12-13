@@ -5,7 +5,8 @@
 #### 45점
 
 ### 실행결과
-![2022-12-13](https://user-images.githubusercontent.com/50912987/207208550-d1ae7f7f-3d89-4cce-9b0f-e542206a8f45.png)
+![실행결과](https://user-images.githubusercontent.com/50912987/207224486-386afab6-0ce5-4bba-9561-493417b3ca7f.png)
+
 
 ### 
 
