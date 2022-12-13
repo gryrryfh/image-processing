@@ -6,6 +6,7 @@
 ![2022-12-13](https://user-images.githubusercontent.com/50912987/207208550-d1ae7f7f-3d89-4cce-9b0f-e542206a8f45.png)
 
 'python'
+
 import cv2 as cv
 
 def setLabel(image, str, contour):
